@@ -5,7 +5,7 @@ function Welcome(props){
   return(
     <>
 <h1>Hay {props.name}!</h1>
- <h2>Welcome {props.name1}</h2>
+ <h2>Welcome to newton school</h2>
 </>
 );
 }
