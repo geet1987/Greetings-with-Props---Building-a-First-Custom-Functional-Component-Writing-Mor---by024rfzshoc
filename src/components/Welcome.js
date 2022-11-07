@@ -1,5 +1,5 @@
 // write code for Welcome component here
-functioon Welcom(){
+functioon Welcome(){
   const name="geet";
 <h1>Hay {name}!</h1>
   <h2>welcome to newton school</h2>
