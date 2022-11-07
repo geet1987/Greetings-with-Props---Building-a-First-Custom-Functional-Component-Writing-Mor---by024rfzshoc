@@ -1,6 +1,6 @@
 // write code for Welcome component here
 function Welcome(){
-  //const name="geet";
+  const name="geet";
   return(
     <>
 <h1>Hay {name}!</h1>
