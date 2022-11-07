@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
     <Welcome name="geet" />
-    <Welcome name="Newton School"/>
+    //<Welcome name="Newton School"/>
   
   </>
   );
